@@ -12,7 +12,7 @@ an open-source crop growth modeling platform.
 ## Selected Project Portfolio 
 
 ### BioCro: open-source crop growth modeling (C++ / R)
-At USDA-ARS, I improved the numerical algorithms for equation solving and integration, improving the stability and speed of crop growth simulations.
+At USDA-ARS, I improved the numerical algorithms for equation solving and integration, improving the stability and speed of crop growth simulations. Selected PRs:
 - [1D Equation Solving Library](https://github.com/biocro/biocro/pull/176/)
   Built a simple 1D equation solving library (newton's method, secant method, bisection method, etc.).
   Improved the stability and speed of leaf photosynthesis calculations (though marginal impact on overall simulation speed).
@@ -24,6 +24,7 @@ At USDA-ARS, I improved the numerical algorithms for equation solving and integr
 ### Cellular Automata Simulation of Forest Growth 
 
 As a student, I developed a simple cellular automata simulation of forest growth (based on the "biology" of trees in Stardew Valley): [stardew-tree-sim](https://github.com/leavesandlemmas/stardew-tree-sim). 
+
 ## Languages
 
 `C++` `Python (NumPy, SciPy, numba)` `R` `Stan` `Rust`
