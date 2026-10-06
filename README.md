@@ -4,12 +4,10 @@
 mathematical models of plant physiology and ecology. Ph.D. in plant physiology.
 + Former member of the development team for [BioCro](https://github.com/biocro/biocro), 
 an open-source crop growth modeling platform.
++ Interested in roles in **modeling, simulation, data science, and scientific software**.
 
-[Google Scholar profile](https://scholar.google.com/citations?user=61wuaX4AAAAJ) · [ORCID](0000-0002-1906-0340)
+📍 Kingsport, TN · [LinkedIn](https://www.linkedin.com/in/scott-oswald-1115b1211/) · [Google Scholar profile](https://scholar.google.com/citations?user=61wuaX4AAAAJ) · [ORCID](0000-0002-1906-0340)
 
-Interested in roles in **modeling, simulation, data science, and scientific software**.
-
-📍 Kingsport, TN · [LinkedIn](https://www.linkedin.com/in/scott-oswald-1115b1211/)
 
 ## Selected Project Portfolio 
 
