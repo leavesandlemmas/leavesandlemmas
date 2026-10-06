@@ -12,7 +12,7 @@ an open-source crop growth modeling platform.
 ## Selected Project Portfolio 
 
 ### BioCro: open-source crop growth modeling (C++ / R)
-At USDA-ARS, I improved the numerical algorithms for equation solving and integration, improving the stability and speed of crop growth simulations. Selected PRs:
+At USDA-ARS, I improved the numerical algorithms for equation solving and integration, improving the stability and speed of crop growth simulations. Selected contributions:
 - [1D Equation Solving Library](https://github.com/biocro/biocro/pull/176/)
   Built a simple 1D equation solving library (newton's method, secant method, bisection method, etc.).
   Improved the stability and speed of leaf photosynthesis calculations (though marginal impact on overall simulation speed).
@@ -21,9 +21,14 @@ At USDA-ARS, I improved the numerical algorithms for equation solving and integr
   Built a simple numerical quadrature library and refactored one of the canopy integral codes.
   ~2.4 faster simulations for similar accuracy.
 
+### reaction_net: compiler for chemical reaction network models (Rust)
+
+[`reaction_net`](https://github.com/leavesandlemmas/reaction_net) is a compiler / parser for translating a domain specific language for chemical reactions (A + B -> C, with optional kinetics) into a system of differential equations for simulation, fixed-point analysis, and sensitivity analysis as well as translation to other programming languages. *Work in progress*.
+
 ### Cellular Automata Simulation of Forest Growth 
 
-As a student, I developed a simple cellular automata simulation of forest growth (based on the "biology" of trees in Stardew Valley): [stardew-tree-sim](https://github.com/leavesandlemmas/stardew-tree-sim). 
+[`stardew-tree-sim`](https://github.com/leavesandlemmas/stardew-tree-sim) simulates tree growth and spread (based on the "biology" of trees in Stardew Valley) as a stochastic cellular automaton,
+As a student, I developed a simple cellular automata simulation of forest growth (based on the "biology" of trees in Stardew Valley): [stardew-tree-sim]. 
 
 ## Languages
 
